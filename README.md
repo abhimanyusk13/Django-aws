@@ -207,3 +207,6 @@ Now everything should be configured for your app so head over to the website and
 <a href="https://www.twitter.com/justdjangocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
+
+## Quick start
+Run `python manage.py runserver --settings=awsdjango.settings.dev` to start the development server.

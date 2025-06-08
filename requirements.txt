@@ -1,3 +1,4 @@
+# Python dependencies
 astroid==2.2.5
 awscli==1.16.194
 awsebcli==3.15.3
